@@ -25,7 +25,7 @@ To make it fun, i also mapped out the FoW boundary of Vatican. On my side, every
 
 ## How to use these Snapshots?
 
-You may place the snapshots in this repo into your FoW database. So the next time you visit Vatican City and really want to maximize your percentage, you'll know exactly which corners to go.
+You may place the snapshots in this repo (under dir [/Boundaries](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries)) into your FoW database. So the next time you visit Vatican City and really want to maximize your percentage, you'll know exactly which corners to go.
 
 <img width="451" height="488" alt="mapref" src="https://github.com/user-attachments/assets/10e277a8-4ad3-4bf1-b384-2c1730259078" />
 
@@ -35,4 +35,4 @@ The correctness of the boundaries is not guaranteed. You are also welcomed to co
 ## -
 * The snapshots were verified on FoW version 3.7.3 (1461).
 
-* Polished using v佬's toolbox on [https://fog.vicc.wang].
+* Polished using [v佬](https://fog.vicc.wang)'s toolbox on [https://fog.vicc.wang].
