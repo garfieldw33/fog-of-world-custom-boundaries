@@ -5,9 +5,9 @@ Currently included:
 
 | Code | Name | Number of blocks covered<sup>**1**</sup> | Maximum explorable area (*km<sup>2</sup>*) | Area required for 100% progress (*km<sup>2</sup>*)|
 |------|------|:----:|------|------|
-| MAC | Macau SAR | 158 | 49.07 |30.3 |
-| MCO | Monaco | 14 | 2.733 | 2.02  |
-| VAT | Vatican City | 2  | 0.4143 | 0.44 (not achievable)  |
+| [MAC](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries/MAC_Macau_SAR_China) | Macau SAR | 158 | 49.07 |30.3 |
+| [MCO](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries/MCO_Monaco) | Monaco | 14 | 2.733 | 2.02  |
+| [VAT](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries/VAT_Vantican_City) | Vatican City | 2  | 0.4143 | 0.44 (not achievable)  |
 
 * <sup>1</sup>- A block is a 64*64-pixel box in FoW, each labeled with **one region**, and has explorable area of ~0.XX km<sup>2</sup> (depending on the latitude). 
 
