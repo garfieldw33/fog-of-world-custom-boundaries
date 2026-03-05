@@ -1,6 +1,25 @@
-# fog-of-world-custom-boundaries
-Custom boundary snapshots for Fog of World, including Macau and Vatican City, to help FoW users understand what truly counts toward region progress.
+---
+marp: true
+---
 
+# fog-of-world-custom-boundaries
+Custom boundary snapshots for Fog of World, to help FoW users understand what truly counts toward region progress.
+
+Curently included:  
+
+| Code | Name | Number of blocks covered<sup>**1**</sup> | Maximum explorable area (*km<sup>2</sup>*) | Area required for 100% progress (*km<sup>2</sup>*)|
+|------|------|:----:|------|------|
+| MAC | Macau SAR | 158 | 49.07 |30.3 |
+| MCO | Monaco | 14 | 2.733 | 2.02  |
+| VAT | Vatican City | 2  | 0.4143 | 0.44 (not achievable)  |
+
+* <sup>1</sup>- A block is a 64*64-pixel box in FoW, each labeled with **one region**, and has explorable area of ~0.XX km<sup>2</sup> (depending on the latitude). 
+
+
+Description:
+* Under dir [/Boundaries](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries), files starting with...
+	* "**B_XXX**": FoW **b**oundary lines around the region.
+	* "**F_XXX**": Solid **f**illed FoW blocks counting towards the region.
 
 ## 🌍
 This might be helpful for those Fog of World users who want to seek high percentage% in some small regions—such as Vatican City.
