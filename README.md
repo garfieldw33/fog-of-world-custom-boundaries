@@ -1,7 +1,7 @@
 # fog-of-world-custom-boundaries
 Custom boundary snapshots for Fog of World, to help FoW users understand what truly counts toward region progress.
 
-Curently included:  
+Currently included:  
 
 | Code | Name | Number of blocks covered<sup>**1**</sup> | Maximum explorable area (*km<sup>2</sup>*) | Area required for 100% progress (*km<sup>2</sup>*)|
 |------|------|:----:|------|------|
