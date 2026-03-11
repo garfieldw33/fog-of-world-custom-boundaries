@@ -3,11 +3,13 @@ Custom boundary snapshots for Fog of World, to help FoW users understand what tr
 
 Currently included:  
 
-| Code | Name | Number of blocks covered<sup>**1**</sup> | Maximum explorable area (*km<sup>2</sup>*) | Area required for 100% progress (*km<sup>2</sup>*)|
-|------|------|:----:|------|------|
-| [MAC](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries/MAC_Macau_SAR_China) | Macau SAR | 158 | 49.07 |30.3 |
-| [MCO](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries/MCO_Monaco) | Monaco | 14 | 2.733 | 2.02  |
-| [VAT](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries/VAT_Vantican_City) | Vatican City | 2  | 0.4143 | 0.44 (not achievable)  |
+| Code | Name | Number of blocks covered<sup>**1**</sup> | Maximum explorable area (*km<sup>2</sup>*) | Area required for 100% progress (*km<sup>2</sup>*)|Explorable  / 100%  |
+|------|------|------|------|------|------|
+| [GIB](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries/GIB_Gibraltar)| Gibraltar | 36 | 8.780 |6.8 |129%|
+| [HKG](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries/) -Coming soon| Hong Kong SAR | >4000 | 1491 |2755 (not achievable) |54%|
+| [MAC](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries/MAC_Macau_SAR_China) | Macau SAR | 153 | 49.07 |30.3 |162%|
+| [MCO](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries/MCO_Monaco) | Monaco | 14 | 2.733 | 2.02  |135%|
+| [VAT](https://github.com/garfieldw33/fog-of-world-custom-boundaries/tree/main/Boundaries/VAT_Vantican_City) | Vatican City | 2  | 0.4143 | 0.44 (not achievable)  |94%|
 
 * <sup>1</sup>- A block is a 64*64-pixel box in FoW, each labeled with **one region**, and has explorable area of ~0.XX km<sup>2</sup> (depending on the latitude). 
 
