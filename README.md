@@ -1,4 +1,7 @@
 # fog-of-world-custom-boundaries
+
+⚠️ From Test Flight version 1501 (3.8, dated 26 09 2026), the boundaries are much more precise (claimed “16x finer resolution”). Numbers in this project are therefore outdated.
+——-
 Custom boundary snapshots for Fog of World, to help FoW users understand what truly counts toward region progress.
 
 Currently included:  
